@@ -29,6 +29,8 @@ git reset HEAD -- <file> : If you need to remove a single file from the staging 
 
 git reset HEAD -- <directoryName> : If you need to remove a whole directory (folder) from the staging area, use
 
+testing======
+
 
 
 
