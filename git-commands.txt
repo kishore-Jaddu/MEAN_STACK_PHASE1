@@ -3,12 +3,26 @@
 
 git init : To initialize a empty repository.
 
+<<<<<<< HEAD
+git init[repository name] : To initialize a new empty repository at specific folder.
+
+=======
+>>>>>>> parent of ff1ced8 (Revert "initial commit gitpractice-1")
 git status : To checked the tracked files and un tracked files
 
 git add<file name> : adding untracked particular file into staging area.
 
 git add .  : adding untracked  files into staging area.  
 
+<<<<<<< HEAD
+git rm <file name>: this may remove the file as well{working directory & stagging area}
+
+git rm --cached<file name> : this will remove the file from stagging area
+
+
+
+=======
+>>>>>>> parent of ff1ced8 (Revert "initial commit gitpractice-1")
 git reset HEAD -- <file> : If you need to remove a single file from the staging area, use
 
 
