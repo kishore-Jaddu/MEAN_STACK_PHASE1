@@ -1,0 +1,24 @@
+            GIT
+
+
+git init : To initialize a empty repository.
+
+git status : To checked the tracked files and un tracked files
+
+git add<file name> : adding untracked particular file into staging area.
+
+git add .  : adding untracked  files into staging area.  
+
+git reset HEAD -- <file> : If you need to remove a single file from the staging area, use
+
+
+
+git reset HEAD -- <directoryName> : If you need to remove a whole directory (folder) from the staging area, use
+
+
+
+
+
+
+
+
